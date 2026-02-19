@@ -27,7 +27,7 @@ body{
 }
 
 .container{
-    background: var(--rose50);
+    background: var(--stone100);
     height: fit-content;
     display: grid;
     justify-items: center;
@@ -37,8 +37,8 @@ body{
 article{
     width: 50%; 
     height: fit-content;
-    margin-top: 50px;
-    margin-bottom: 50px; 
+    margin-top: 150px;
+    margin-bottom: 150px; 
     justify-content: center;
     padding: 20px;
     background: white;
